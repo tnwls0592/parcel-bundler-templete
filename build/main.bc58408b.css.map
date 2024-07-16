@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss\\main.scss"],"names":[],"mappings":"AAGA,GACE,aAHY,CAIZ","file":"main.bc58408b.css","sourceRoot":"..","sourcesContent":["$font-size : 2rem;\r\n$font-color : royalblue;\r\n\r\nh1 {\r\n  color : $font-color;\r\n  font-size: $font-size;\r\n}"]}
